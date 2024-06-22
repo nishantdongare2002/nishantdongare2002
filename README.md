@@ -71,17 +71,17 @@ You can click the Preview link to take a look at your changes.
 
 <h3>📕 Top Repositories</h3>
 
-<a href="https://github.com/nishantdongare2002/flixxit#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantdongare2002&repo=flixxit&theme=buefy#gh-light-mode-only"/>
+<a href="https://github.com/nishantdongare2002/my-project.git#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantdongare2002&repo=my-project&theme=buefy#gh-light-mode-only"/>
 </a>
-<a href="https://github.com/nishantdongare2002/flixxit#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantdongare2002&repo=flixxit&theme=dark#gh-dark-mode-only"/>
+<a href="https://github.com/nishantdongare2002/my-2-project.git#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantdongare2002&repo=my-2-project&theme=dark#gh-dark-mode-only"/>
 </a>
-<a href="https://github.com/nishantdongare2002/issue-tracker#gh-light-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantdongare2002&repo=issue-tracker&theme=buefy#gh-light-mode-only"/>
+<a href="https://github.com/nishantdongare2002/my-3-project.git#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantdongare2002&repo=my-3-project&theme=buefy#gh-light-mode-only"/>
 </a>
-<a href="https://github.com/nishantdongare2002/issue-tracker#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantdongare2002&repo=issue-tracker&theme=dark#gh-dark-mode-only"/>
+<a href="https://github.com/nishantdongare2002/my-3-project.git#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantdongare2002&repo=my-3-project&theme=dark#gh-dark-mode-only"/>
 </a>
 
 <br />
