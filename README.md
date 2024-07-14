@@ -99,4 +99,10 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantdongare2002&repo=my-4-project-&theme=dark#gh-dark-mode-only"/>
 </a>
 
+<a href="https://github.com/nishantdongare2002/my-5-project-.git#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantdongare2002&repo=my-5-project-&theme=buefy#gh-light-mode-only"/>
+</a>
+<a href="https://github.com/nishantdongare2002/my-5-project-.git#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nishantdongare2002&repo=my-5-project-&theme=dark#gh-dark-mode-only"/>
+</a>
 <br />
